@@ -1,6 +1,6 @@
-# 🎫 Support tickets template
+# 🎫 Action Item template
 
-A simple Streamlit app showing an internal tool that lets you create, manage, and visualize support tickets. 
+A simple Streamlit app showing an internal tool that lets you create, manage, and visualize action items. 
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://support-tickets-template.streamlit.app/)
 
